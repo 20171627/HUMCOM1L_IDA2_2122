@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Registration Form Kooper Dogui-is</title>
+</head>
+<body>
+    <h1 style="text-align:center;">Sign up now!</h1>
+    <p>Fields marked (*) are required</p>
+
+    <form>
+        <fieldset>
+        <legend><h3>Your Details</h3></legend>
+            Name:  <input type="text" size="80" max="25" name="name" title="" placeholder="Full name" /><br />
+            Email: &nbsp<input type="email" size="80"  name="email" title="" placeholder="email@provider.com" /><br />
+            Phone: <input type="tel" size="80" max="" name="Contact Number" title="" placeholder="(+00)000-000-0000"/><br />
+        </fieldset> 
+        
+        <fieldset>
+            <legend><h3>Delivery Address</h3></legend>
+                Address 1*:  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="text" size="70" max="25" name="name" title="" placeholder="House/Apt Number and Street" /><br />
+                District/Barangay*:&nbsp<input type="text" size="70" max="25" name="name" title="" placeholder="ex. District4 ,Brgy. Pico" /><br />
+                
+				<l>City:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</l>
+				<select>
+				    <option value="Baguio">Baguio</option>
+					<option value="Cebu">Cebu</option>
+					<option value="Tarlac">Tarlac</option>
+				</select>
+				<br />
+                Postal Code*: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="number" size="80" min=0 max=100 name="Postal Code" title="" /><br />
+
+                <l>Province:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</l>
+				<select>
+				    <option value="Benguet">Benguet</option>
+					<option value="Cagayan">Cagayan</option>
+					<option value="Isabela">Isabela</option>
+				</select>
+            </fieldset>
+
+            <fieldset>
+                <legend><h3>Membership Inforamtion</h3></legend>
+                    Username*:  <input type="text" size="75" max="25" name="name" title="" placeholder="Atleast 8 Aplhanumeric characters" /><br />
+                    Password*: <input type="password" size="75" max="" name="Password" title="" /><br />
+                    
+                    <legend><l>Magazine Subscriptions:</l></legend>
+					<input type="checkbox" name="PC Magazine" value="f"> PC Magazine<br>
+					<input type="checkbox" name="Wired" value="b"> Wired<br>
+					<input type="checkbox" name="Computerworld" value="p"> Computerworld<br>
+                    <input type="checkbox" name="I dont subscribe" value="p"> I dont subscribe<br>
+					<input type="checkbox" name="Other" value="other"> Other
+
+            </fieldset>
+
+            <fieldset>   
+                <input type="submit" onclick="ValidityState" value=" Submit Now! ">
+            </fieldset>
+
+        
+        
+    </form>
+
+</body>
+</html>
