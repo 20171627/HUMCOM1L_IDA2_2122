@@ -1,0 +1,136 @@
+@media only screen and (max-width: 1024px) {
+
+*{
+box-sizing:border-box;
+}
+
+    .head{
+        background-color: rgb(216, 215, 212);
+        float: left;
+        width: 48.6%;
+        padding: 15px;
+        margin: 7px;
+        text-align: center;
+    }
+
+    .body{
+        background-color: rgb(201, 200, 198);
+        float: left;
+        width: 98%;
+        padding: 200px;
+        margin: 10px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .content{
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 31.5%;
+        padding: 80px;
+        margin: 9px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .footer{
+        background-color: rgb(226, 224, 221);
+        float: left;
+        width: 23.5%;
+        padding: 50px;
+        margin: 7px;
+        text-align: center;
+    }
+}
+
+
+@media only screen and (max-width: 769px) {
+    * {
+        box-sizing: border-box;
+      }
+      
+      .head {
+        background-color: rgb(216, 215, 212);
+        float: left;
+        width: 100%;
+        padding: 15px;
+        margin: 5px;
+        text-align: center;
+      }
+      
+      .body {
+        background-color: rgb(201, 200, 198);
+        float: left;
+        width: 100%;
+        padding: 150px;
+        margin: 7px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        text-align: center;
+      }
+      
+      .content {
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 100%;
+        padding: 15px;
+        margin: 5px;
+        text-align: center;
+      }
+      
+      .footer {
+        background-color: rgb(226, 224, 221);
+        float: left;
+        width: 48.1%;
+        padding: 15px;
+        margin: 7px;
+        text-align: center;
+      }
+    }
+
+    @media only screen and (max-width: 320px) {
+
+        *{
+        box-sizing:border-box;
+        }
+        
+            .head{
+                background-color: rgb(216, 215, 212);
+                float: left;
+                width: 100%;
+                padding: 10px;
+                margin: 5px;
+                text-align: center;
+            }
+        
+            .body{
+                background-color: rgb(201, 200, 198);
+                float: left;
+                width: 98%;
+                padding: 30px;
+                margin: 5px;
+                margin-top: 30px;
+                margin-bottom: 30px;
+                text-align: center;
+            }
+        
+            .content{
+                background-color: rgb(212, 211, 209);
+                float: left;
+                width: 100%;
+                padding: 50px;
+                margin: 7px;
+                text-align: center;
+            }
+        
+            .footer{
+                background-color: rgb(226, 224, 221);
+                float: left;
+                width: 100%;
+                padding: 10px;
+                margin: 3px;
+                text-align: center;
+            }
+        
+        }
