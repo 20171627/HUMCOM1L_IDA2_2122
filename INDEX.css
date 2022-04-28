@@ -1,0 +1,108 @@
+
+*{
+box-sizing:border-box;
+}
+
+
+    .head{
+        background-color: rgb(216, 215, 212);
+        float: left;
+        width: 100%;
+        padding: 90px;
+        margin: 7px;
+        text-align: center;
+        background: url(FOOTER3.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .body{
+        background-color: rgb(204, 197, 197);
+        float: left;
+        width: 100%;
+        padding: 100px;
+        margin: 10px;
+        text-align: center;
+        background: url(BODY.jpg);
+        background-size: cover;
+        background-position: center;
+        font-family:'Courier New'; color: rgb(255, 255, 255); font-size: 12px;
+    }
+
+    .content1:hover {
+        transform: rotate(0deg) scale(1.4);
+    }
+    .content1:hover {
+        flex-grow: 2;
+    }
+
+    .content2:hover {
+        transform: rotate(0deg) scale(1.4);
+    }
+    .content2:hover {
+        flex-grow: 2;
+    }
+
+    .content3:hover {
+        transform: rotate(0deg) scale(1.4);
+    }
+    .content3:hover {
+        flex-grow: 2;
+    }
+
+    .content1{
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(FOOTER.jpg);
+        background-size: cover;
+        background-position: center;
+
+    }
+
+    .content2{
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 31%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(MAPS2.jpg);
+        background-size: cover;
+        background-position: center;
+
+    }
+
+    .content3{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(SPIKE.jpg);
+        background-size: cover;
+        background-position: center;
+        flex-grow: 4;
+    }
+
+    
+
+    .footer{
+        background-color: rgb(226, 224, 221);
+        float: left;
+        width: 100%;
+        padding: 80px;
+        margin: 7px;
+        text-align: center;
+        background: url(FOOTER3.jpg);
+        background-size: cover;
+        background-position: center;
+        font-family:'Courier New'; color: rgb(255, 255, 255); font-size: 10px;
+    }
+
+
+
