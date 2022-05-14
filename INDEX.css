@@ -89,6 +89,344 @@ box-sizing:border-box;
         flex-grow: 4;
     }
 
+    .brimstone{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(BRIMSTONE.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .jett{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(jett.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .sage{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(sage.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .breach{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(BREACH.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .astra{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(ASTRA.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .chamber{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(CHAMBER.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .cypher{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(CYPHER.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .fade{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(FADE.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .kayo{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(KAYO.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .killjoy{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(KILLJOY.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .neon{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(NEON.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .omen{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(OMEN.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .phoenix{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(PHOENIX.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .raze{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(RAZE.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .reyna{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(REYNA.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .skye{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(skye.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .sova{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(SOVA.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .viper{
+        background-color: rgb(212, 211, 209);
+        float: right;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(VIPER.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .yoru{
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(YORU.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .ascent{
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(ASCENT.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .bind{
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(BIND.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .breeze{
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(BREEZE.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .fracture{
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(FRACTURE.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .haven{
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(HAVEN.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .icebox{
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(ICEBOX.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .split{
+        background-color: rgb(212, 211, 209);
+        float: left;
+        width: 31.5%;
+        padding: 80px;
+        margin: 10px;
+        text-align: center;
+        background: url(SPLIT.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
 
     .footer{
